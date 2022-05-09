@@ -1,5 +1,5 @@
 
-# Hack Group (HG- 1 Pull request) ↔️
+# Hack Group (HG- 1 Pull request) 👤 ↔️ 👤
 ## hg_1_alfa_jgalvis414
 ## Team Charlie 👼 💻
 
